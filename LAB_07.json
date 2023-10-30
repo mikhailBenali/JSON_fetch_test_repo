@@ -1,0 +1,24 @@
+{
+    "studentNumber" : 3,
+    "campus" : {
+        "name": "ILAC International College",
+        "address": "120 Bloor St E, Toronto, ON M4W 1B7"
+    },
+    "students" : [
+        {
+            "name": "John Doe",
+            "age": 30,
+            "city": "New York"
+        },
+        {
+            "name": "Jane Doe",
+            "age": 25,
+            "city": "Paris"
+        },
+        {
+            "name": "Jim Doe",
+            "age": 20,
+            "city": "Toronto"
+        }
+    ]
+}
