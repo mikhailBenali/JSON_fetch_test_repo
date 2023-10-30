@@ -1,0 +1,39 @@
+[
+    {
+        "name": "John",
+        "age": 25,
+        "city": "New York",
+        "country": "USA"
+    },
+    {
+        "name": "Maria",
+        "age": 32,
+        "city": "Paris",
+        "country": "France"
+    },
+    {
+        "name": "David",
+        "age": 41,
+        "city": "London",
+        "country": "UK"
+    },
+    {
+        "name": "Anna",
+        "age": 19,
+        "city": "Berlin",
+        "country": "Germany",
+        "profilePicture" : "https://i.pinimg.com/originals/77/71/68/7771683223d86b237a3304d6f32828b9.jpg"
+    },
+    {
+        "name": "Carlos",
+        "age": 28,
+        "city": "Madrid",
+        "country": "Spain"
+    },
+    {
+        "name": "Sofia",
+        "age": 36,
+        "city": "Rome",
+        "country": "Italy"
+    }
+]
